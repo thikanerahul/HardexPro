@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_dashboard">
+
+    <fragment
+        android:id="@+id/nav_dashboard"
+        android:name="com.example.hardexpro.ui.dashboard.DashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/nav_inventory"
+        android:name="com.example.hardexpro.ui.inventory.InventoryFragment"
+        android:label="Inventory"
+        tools:layout="@layout/fragment_inventory" />
+
+    <fragment
+        android:id="@+id/nav_raw_material"
+        android:name="com.example.hardexpro.ui.inventory.RawMaterialFragment"
+        android:label="Raw Materials"
+        tools:layout="@layout/fragment_raw_material" />
+
+    <fragment
+        android:id="@+id/nav_billing"
+        android:name="com.example.hardexpro.ui.billing.BillingFragment"
+        android:label="Billing"
+        tools:layout="@layout/fragment_billing" />
+
+    <fragment
+        android:id="@+id/nav_customers"
+        android:name="com.example.hardexpro.ui.customer.CustomerFragment"
+        android:label="Customers"
+        tools:layout="@layout/fragment_customers" />
+
+    <fragment
+        android:id="@+id/nav_reports"
+        android:name="com.example.hardexpro.ui.reports.ReportsFragment"
+        android:label="Reports"
+        tools:layout="@layout/fragment_reports" />
+
+</navigation>

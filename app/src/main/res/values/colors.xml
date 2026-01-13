@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Industrial Neon Palette (LIGHT) -->
+    <color name="primary">#E65100</color> <!-- Burnished Safety Orange for Light -->
+    <color name="primary_variant">#BF360C</color>
+    <color name="secondary">#0097A7</color> <!-- Industrial Blue for Light -->
+    <color name="secondary_variant">#006064</color>
+    
+    <color name="background">#F5F5F7</color> <!-- Soft Light Gray -->
+    <color name="surface">#FFFFFF</color> 
+    <color name="surface_variant">#ECEFF1</color>
+    
+    <color name="error">#D32F2F</color> 
+    <color name="success">#388E3C</color>
+    
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#616161</color>
+    <color name="text_hint">#9E9E9E</color>
+    
+    <!-- Glassmorphism Helpers for Light Mode -->
+    <color name="glass_white">#E6FFFFFF</color>
+    <color name="glass_border">#1A000000</color>
+    <color name="neon_glow_orange">#26FF9100</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

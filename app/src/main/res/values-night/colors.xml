@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Industrial Neon Palette (DARK) -->
+    <color name="primary">#FF9100</color> <!-- Neon Safety Orange -->
+    <color name="primary_variant">#EF6C00</color>
+    <color name="secondary">#00E5FF</color> <!-- Electric Cyan -->
+    <color name="secondary_variant">#00B8D4</color>
+    
+    <color name="background">#121212</color> <!-- Deep Charcoal -->
+    <color name="surface">#1E1E1E</color> <!-- Slate -->
+    <color name="surface_variant">#2C2C2C</color>
+    
+    <color name="error">#FF1744</color> <!-- Neon Red -->
+    <color name="success">#00E676</color> <!-- Neon Green -->
+    
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#757575</color>
+    
+    <!-- Glassmorphism Helpers -->
+    <color name="glass_white">#1AFFFFFF</color>
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="neon_glow_orange">#4DFF9100</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

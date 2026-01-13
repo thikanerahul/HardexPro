@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605546971404",
+    "project_id": "hardexpro-40178",
+    "storage_bucket": "hardexpro-40178.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605546971404:android:d380e1e171fd9ee142c929",
+        "android_client_info": {
+          "package_name": "com.example.hardexpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVOkfVepWW1VcxCU626c9UYUC4ZBrQf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
